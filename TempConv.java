@@ -1,5 +1,4 @@
 package pkg1;
-import java.util.Scanner;
 
 public class TempConv {
 	
